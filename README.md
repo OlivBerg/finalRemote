@@ -39,7 +39,7 @@ Azure App Service deployment
 
 ## Video Demonstration
 
-    Embedded video or link
+[YouTube](https://youtu.be/ENaMSjghwiM)
 
 ## Setup Instructions
 
