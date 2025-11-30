@@ -27,7 +27,7 @@ WITH AggregatedData AS (
         [finalRemoteHub]
     GROUP BY
         IoTHub.ConnectionDeviceId,
-        TumblingWindow(minute, 1)
+        TumblingWindow(minute, 5)
 )
 
 SELECT * INTO [archive] FROM AggregatedData;
