@@ -3,7 +3,7 @@
 ## Student Information
 
 - **Name:** Olivie Bergeron
-- **Student ID:** 123456789
+- **Student ID:** 041068227
 - **Course:** CST8916 - Fall 2025
 
 ## Repository Links
